@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "message": "Welcome to the Cat Dictionary API",
+  "data": {
+    "meow": "A common cat vocalization. Can mean attention, greeting, or demand.",
+    "purr": "A soft, rumbling sound that cats make when content or relaxed.",
+    "hiss": "A warning sound, usually when scared or angry.",
+    "mrrp": "A trill or chirp-like sound, often used to greet or get attention.",
+    "yowl": "A loud, drawn-out cry, often used during mating or when in distress.",
+    "chirp": "A high-pitched sound, often when watching birds or insects.",
+    "blep": "When a cat sticks out its tongue slightly. Often unintentionally.",
+    "zoomies": "Sudden bursts of running and playfulness, usually at night.",
+    "boop": "Gently touching a cat's nose or head, often with a finger.",
+    "loaf": "When a cat tucks its paws under its body, resembling a loaf of bread.",
+    "biscuit": "Kneading motion cats make with their paws, like making biscuits.",
+    "tail-flick": "A flicking tail can indicate irritation or concentration.",
+    "slow-blink": "A sign of affection or trust. Often called 'cat kisses'."
+  }
+}
